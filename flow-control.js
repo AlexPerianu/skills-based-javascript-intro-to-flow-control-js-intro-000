@@ -1,5 +1,5 @@
-if basicTeenager(19) {
-teenager(19)
+if basicTeenager(age) {
+13<=19
 }
 
 function teenager(age) {
