@@ -1,4 +1,5 @@
-if (basicTeenager=19) {
+function basicTeenager(age){
+if (basicTeenager=19) 
   console.log('basicTeenager ===19')
 }
 
